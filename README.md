@@ -1,1 +1,1 @@
-# mcgrawhill-homework
+# The code is for a specific question in a specific homework. You need to be provided a graph with income and savings already given. The code calculates for APC, APS, MPC, MPS, and Consumption. Floats are not rounded up to 3 decimal places. Requires 2 sets of income and savings (unless manually edited otherwise).
